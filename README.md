@@ -21,4 +21,4 @@ A simple and modern To-Do List application built with HTML, CSS, and JavaScript.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AbdelrahmanHecham/todo-list.git
+   git clone https://github.com/AbdelrahmanHecham/test-proj-v1.git
