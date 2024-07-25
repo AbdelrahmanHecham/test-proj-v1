@@ -1,5 +1,3 @@
-# test-proj-v1
-
 # To-Do List Application
 
 A simple and modern To-Do List application built with HTML, CSS, and JavaScript. This app helps users manage their tasks efficiently with features like task creation, priority setting, and completion tracking.
